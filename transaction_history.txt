@@ -1,0 +1,5 @@
+transaction_number:[1, 2]
+resulting_balance:[1.0, 21.0]
+transaction_amount:[1.0, 20.0]
+transaction_description:['thanks for joining', 'small']
+transaction_timestamp:['01/01/01 12:00', '12/12/1222 12:32']
